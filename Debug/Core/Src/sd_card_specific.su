@@ -1,0 +1,5 @@
+../Core/Src/sd_card_specific.c:45:13:bsp_sdio_init	40	static
+../Core/Src/sd_card_specific.c:78:13:MX_SDIO_SD_Init	4	static
+../Core/Src/sd_card_specific.c:107:13:MX_DMA_Init	16	static
+../Core/Src/sd_card_specific.c:131:13:FAT_FUNCTION	160	static
+../Core/Src/sd_card_specific.c:178:6:Error_Handler	4	static,ignoring_inline_asm

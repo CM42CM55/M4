@@ -1,0 +1,5 @@
+../Core/Src/sd_card_specific.c:45:13:bsp_sdio_init	1
+../Core/Src/sd_card_specific.c:78:13:MX_SDIO_SD_Init	1
+../Core/Src/sd_card_specific.c:107:13:MX_DMA_Init	1
+../Core/Src/sd_card_specific.c:131:13:FAT_FUNCTION	10
+../Core/Src/sd_card_specific.c:178:6:Error_Handler	1
